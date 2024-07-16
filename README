@@ -1,7 +1,7 @@
 
-#  Roteiro de Atividades
+# Roteiro de Atividades
 
-
+![PRIMEIRO PROJETO](https://github.com/Luislemesilva/projeto_gerador_senha/assets/137091295/b84e23dc-4c92-4671-a33b-d535c0d015a6)
 
 
  
@@ -15,8 +15,8 @@ O projeto foi construido a partir das tecnologias HTML, CSS e JS
 
 ## 💻 Projeto
 
-O projeto se consinste em um app de Roteiro de Atividades para uma viagem ou qualquer outra ocasião que seja deseja usar, podendo adicionar o evento, data e hora. Ao finalizarmos, 
-temos a opção de marca-lo como concluido, como aparece a frente da atividade.
+O projeto se consinste em um app, na qual podemos criar um roteiro de atividades para um determinada viagem ou qualquer outra ocasião, onde podemos inserir a atividade a ser 
+realizada, junto a data e o horario. Ao finalizarmos, podemos marca-las como concluidos, fazendo com que apareça a verificação em frente a atividade.
 - [Acesse o projeto finalizado] 
 
   
@@ -24,7 +24,7 @@ temos a opção de marca-lo como concluido, como aparece a frente da atividade.
 
 ## ✒️ Autores
 
-Projeto realizado por Luis Eduardo Leme Silva, no semana NLW Journey da Rocketseat
+Projeto realizado por Luis Eduardo Leme Silva, na semana NLW Journey da Rocketseat
 
 ⌨️ com dedicação por [Luis Eduardo Leme Silva](https://gist.github.com/Luislemesilva) 😎
 
