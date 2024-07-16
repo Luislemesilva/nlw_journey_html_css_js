@@ -2,19 +2,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-  }
-  
-  html, input, select, button {
+}
+
+
+html, input, select, button, option {
     font-family: 'Inter', sans-serif;
     background-color: #09090B;
     color: #FAFAFA;
-  
+
     line-height: 120%;
     letter-spacing: -0.02em;
-  }
-  
-  /* app */
-  #app {
+}
+
+/* app */
+#app {
     padding: 40px 20px;
     max-width: 320px;
     margin: auto;
@@ -72,6 +73,7 @@
     font-size: 16px;
   
     color: #132F00;
+    cursor: pointer;
   }
   
   .card-bg {
@@ -93,7 +95,7 @@
   }
   
   h1 {
-    text-align: center;
+    text-align: center; 
     font-weight: 600;
     font-size: 24px;
   
