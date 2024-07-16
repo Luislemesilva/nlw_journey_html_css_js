@@ -24,12 +24,12 @@ const atividade = {
 let atividades = [
   atividade,
   {
-    nome: 'Academia em grupo',
+    nome: 'Academia',
     data: new Date("2024-07-09 12:00"),
     finalizada: false
   },
   {
-    nome: 'Gamming session',
+    nome: 'Gaming session',
     data: new Date("2024-07-09 16:00"),
     finalizada: true
   },
@@ -131,11 +131,11 @@ const salvarAtividade = (event) => {
 
 const criarDiasSelecao = () => {
   const dias = [
-    '2024-02-28',
-    '2024-02-29',
-    '2024-03-01',
-    '2024-03-02',
-    '2024-03-03',
+    '2024-07-09',
+    '2024-07-10',
+    '2024-07-11',
+    '2024-07-12',
+    '2024-07-13',
   ]
 
   let diasSelecao = ''
